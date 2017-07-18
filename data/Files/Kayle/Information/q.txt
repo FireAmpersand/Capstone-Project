@@ -1,0 +1,1 @@
+Blasts an enemy unit with angelic force, dealing damage, slowing Movement Speed, and applying Holy Fervor.

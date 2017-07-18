@@ -1,0 +1,1 @@
+Rammus gains additional damage as his shell becomes reinforced, converting 25% of his Armor into Attack Damage.

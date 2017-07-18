@@ -1,0 +1,1 @@
+Cassiopeia gains Movement Speed per level, but she cannot purchase Boots items.

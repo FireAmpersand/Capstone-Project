@@ -1,0 +1,1 @@
+Tempest: Lee Sin smashes the ground, sending out a shockwave that deals magic damage and reveals enemy units hit. If Tempest hits an enemy, Lee Sin can cast cripple for the next 3 seconds. Cripple: Lee Sin cripples nearby enemies damaged by Tempest, reducing their Movement Speed for 4 seconds. Movement Speed recovers gradually over the duration.

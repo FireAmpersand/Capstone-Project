@@ -1,0 +1,1 @@
+Tahm Kench devours a target, dealing a percentage of their maximum health as magic damage. He can spit devoured minions and monsters out as a skillshot that deals magic damage in an area upon impact.

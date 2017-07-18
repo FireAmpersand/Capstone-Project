@@ -1,0 +1,1 @@
+Ekko splits the timeline, creating an anomaly after a few seconds that slows enemies caught inside. If Ekko enters the anomaly, he gains shielding and triggers a detonation, stunning enemies by suspending them in time.

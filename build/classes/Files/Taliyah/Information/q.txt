@@ -1,0 +1,1 @@
+Taliyah throws a volley of missiles in a target direction, moving freely as she does. This works the ground below her. If Taliyah casts Threaded Volley on worked ground, she only throws one missile.

@@ -1,0 +1,1 @@
+LeBlanc flings illusionary chains towards a target location. If it hits an enemy unit, it will deal initial magic damage and shackle them. If the target remains shackled for 1.5 seconds, the target takes additional magic damage and is unable to move.

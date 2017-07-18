@@ -1,0 +1,1 @@
+Irelia dashes forward to strike her target. If it kills the target, Bladesurge's cooldown refreshes and refunds a portion of the Mana Cost.

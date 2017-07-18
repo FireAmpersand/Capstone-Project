@@ -1,0 +1,1 @@
+Xin Zhao deals damage to nearby enemies based on their current Health and knocks non-challenged targets back. Xin Zhao gains bonus Armor and Magic Resist based on number of champions hit.

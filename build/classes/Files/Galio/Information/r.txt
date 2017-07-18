@@ -1,0 +1,1 @@
+Galio grants damage reduction to an ally. After a delay Galio smashes down on the ally's original location, knocking up nearby enemies.

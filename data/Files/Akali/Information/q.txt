@@ -1,0 +1,1 @@
+Akali spins her kama at a target enemy to deal Magic Damage and mark the target for 6 seconds. Akali's melee attacks against a marked target will trigger and consume the mark to cause additional damage and restore Energy.

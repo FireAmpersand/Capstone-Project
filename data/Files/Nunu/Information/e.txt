@@ -1,0 +1,1 @@
+Nunu launches a ball of ice at an enemy unit, dealing damage and temporarily slowing their Movement and Attack Speeds.

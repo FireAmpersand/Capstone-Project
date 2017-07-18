@@ -1,0 +1,1 @@
+Valor periodically marks enemies as <font color='#FFF673'>Vulnerable</font>. Quinn's first basic attack against <font color='#FFF673'>Vulnerable</font> targets will deal bonus physical damage.

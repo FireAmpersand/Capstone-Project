@@ -1,0 +1,1 @@
+When out of combat, Evelynn enters Camouflage only being able to be seen by nearby enemy champions or Control Wards. While Camouflaged, she rapidly regenerates Mana.

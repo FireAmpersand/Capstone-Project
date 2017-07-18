@@ -1,0 +1,1 @@
+Urgot fires an Acid Hunter missile that collides with the first enemy it hits, slowing the target if he has his Terror Capacitor up. Acid Hunter missile-locks on enemies affected by Noxian Corrosive Charge.

@@ -1,0 +1,1 @@
+Wukong dashes to target enemy and sends out images to attack up to 2 additional enemies near his target, dealing physical damage to each enemy struck.

@@ -1,0 +1,1 @@
+Evelynn fires a line of spikes through an enemy, dealing damage to all enemies in its path.

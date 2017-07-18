@@ -1,0 +1,1 @@
+Every several seconds Lissandra's next ability costs no Mana. This cooldown is reduced whenever Lissandra impairs an enemy's movement with an ability (does not apply to movement-impairing effects from items).

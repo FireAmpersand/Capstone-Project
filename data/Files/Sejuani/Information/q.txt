@@ -1,0 +1,1 @@
+Charges forward, dealing magic damage and knocking enemies into the air. The charge stops after knocking an enemy champion into the air.

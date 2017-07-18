@@ -1,0 +1,1 @@
+Blesses a target friendly champion, granting them increased Movement Speed and healing them.

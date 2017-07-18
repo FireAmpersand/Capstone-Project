@@ -1,0 +1,1 @@
+Pantheon composes himself then leaps into the air to a target, striking all enemy units in an area. Enemies closer to the impact point take more damage.

@@ -1,0 +1,1 @@
+Passive: Grants Kayle on Hit magic Damage. Activate: Ignite Kayle's sword with a holy flame, granting Kayle a ranged attack that damages multiple enemies and deals bonus magic damage.

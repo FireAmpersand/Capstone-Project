@@ -1,0 +1,1 @@
+Gragas rolls his cask to a location, which can be activated to explode or will explode on its own after 4 seconds. Enemies struck by the blast have their Movement Speed slowed.

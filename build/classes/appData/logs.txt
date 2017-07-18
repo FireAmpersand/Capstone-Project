@@ -1,0 +1,3 @@
+[21/04/2017 01:13:01] An Error Has Occured At frontend_viewcontroller.ImageBuilder: FAILED TO FIND AHRI IMAGE
+[21/04/2017 01:10:18] An Error Has Occured At frontend_viewcontroller.ImageBuilder: FAILED TO FIND AHRI IMAGE
+[21/04/2017 01:07:12] An Error Has Occured At frontend_viewcontroller.ImageBuilder: FAILED TO FIND AATROX IMAGE

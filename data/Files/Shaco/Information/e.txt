@@ -1,0 +1,1 @@
+Shaco's Shivs passively poison targets on hit, slowing their movement speed. He can throw his Shivs to deal damage and poison the target. The thrown Shiv deals bonus damage based on the target's missing Health.

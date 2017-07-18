@@ -1,0 +1,1 @@
+Reduces Mantra's cooldown each time Karma damages an enemy champion with one of her abilities (Half-effect for Karma's basic attacks)

@@ -1,0 +1,1 @@
+On ability use, Gragas takes a drink restoring 6% of his max Health. This effect can only happen every 8 seconds.

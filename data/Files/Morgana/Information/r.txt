@@ -1,0 +1,1 @@
+Latches chains of energy onto nearby enemy champions, dealing initial damage to them and slowing their Movement Speed, and then echoing the pain a few seconds later and stunning them if they remain close to Morgana.

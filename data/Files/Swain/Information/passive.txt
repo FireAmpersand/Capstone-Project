@@ -1,0 +1,1 @@
+Swain regenerates Mana each time he kills a unit. This amount increases each level.

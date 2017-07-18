@@ -1,0 +1,1 @@
+When Kha'Zix is not visible to the enemy team, he gains Unseen Threat, causing his next basic attack against an enemy Champion to deal bonus magic damage and slow.

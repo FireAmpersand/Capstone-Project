@@ -1,0 +1,1 @@
+Standing still or channeling abilities for 1.5 seconds empowers Fiddlesticks with Dread. Immobilizing crowd control resets this timer.<br><br>Dread grants Movement Speed, but only lasts for 1.5s after Fiddlesticks starts moving.

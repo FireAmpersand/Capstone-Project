@@ -1,0 +1,1 @@
+When LeBlanc damages an enemy with a spell, she marks the target for 4 seconds. After 1.5 seconds, LeBlanc's next spell shatters the Sigil to deal magic damage.<br><br>Sigil of Malice cannot occur again on the same unit for 5 seconds.

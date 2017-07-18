@@ -1,0 +1,1 @@
+Irelia's attack balances the scales, dealing damage and slowing the target. However, if the target has a higher Health % than Irelia, then the blow stuns the target instead of slowing.

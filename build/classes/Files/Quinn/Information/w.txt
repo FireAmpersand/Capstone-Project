@@ -1,0 +1,1 @@
+Passively grants Quinn Attack Speed and Movement Speed after she attacks a Vulnerable target. Activate to have Valor reveal a large area nearby.

@@ -1,0 +1,1 @@
+Evelynn passively increases her Movement Speed when hitting enemy champions with her spells. Upon activation, Evelynn breaks free from slows affecting her and gains a massive Movement Speed boost for a short duration.

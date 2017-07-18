@@ -1,0 +1,1 @@
+Braum adds stacks of Concussive Blows to enemies with basic attacks or Winter's Bite. He and his allies continue to add stacks with basic attacks, at 4 stacks their target will be stunned.

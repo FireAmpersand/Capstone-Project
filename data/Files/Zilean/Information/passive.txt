@@ -1,0 +1,1 @@
+Zilean stores time as <font color='#BB55EE'>Experience</font>. <br><br>When he has enough <font color='#BB55EE'>Experience</font> to finish an ally's level, he can right-click them to impart it. Zilean receives as much <font color='#BB55EE'>Experience</font> as he gives. Cannot be used in combat.

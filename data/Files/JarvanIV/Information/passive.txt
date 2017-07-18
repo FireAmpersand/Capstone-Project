@@ -1,0 +1,1 @@
+Jarvan IV's initial basic attack on a target deals bonus physical damage. This effect cannot occur again on the same target for a short duration.

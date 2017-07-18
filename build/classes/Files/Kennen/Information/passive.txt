@@ -1,0 +1,1 @@
+Kennen's abilities add one stack of Mark of the Storm to their target for 6 seconds. If the target reaches 3 stacks, it is stunned for 1.25 seconds and Kennen gains 25 Energy. <br><br><font color='#99FF99'>The stun will be a diminished duration of 0.5 seconds if it occurs again within 6 seconds.</font>

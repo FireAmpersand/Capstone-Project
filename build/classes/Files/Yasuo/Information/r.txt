@@ -1,0 +1,1 @@
+Moves to a unit and strikes them repeatedly for heavy damage. Can only be cast on Airborne targets.

@@ -1,0 +1,1 @@
+Tahm Kench turns incoming damage into gray health. As gray health decays, Tahm Kench is healed for a percentage of the gray health amount. When activated, this ability turns all gray health into a shield.

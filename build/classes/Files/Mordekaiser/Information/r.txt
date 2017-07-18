@@ -1,0 +1,1 @@
+Mordekaiser curses an enemy champion or the Dragon, stealing a percent of their life initially and each second. If the target dies while the spell is active, their soul is enslaved and will follow Mordekaiser as a ghost.

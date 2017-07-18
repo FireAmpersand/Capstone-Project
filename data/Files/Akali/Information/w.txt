@@ -1,0 +1,1 @@
+Akali teleports to a nearby location, leaving a cover of smoke at her previous location. While inside the shroud, Akali becomes Invisible and gains Movement Speed. Attacking or using abilities will briefly reveal her. Enemies inside the smoke have their Movement Speed reduced.

@@ -1,0 +1,1 @@
+Hecarim cleaves nearby enemies dealing physical damage.

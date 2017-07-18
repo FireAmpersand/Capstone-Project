@@ -1,0 +1,1 @@
+<mainText>Shyvana deals bonus damage to dragons and gains Armor and Magic Resistance. As Shyvana and her allies slay more dragons, she gains more bonus Armor and Magic Resistance.</mainText>

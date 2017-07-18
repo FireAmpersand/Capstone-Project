@@ -1,0 +1,1 @@
+Nautilus hurls his anchor forward. If it hits a champion, he drags both himself and the opponent close together. If it hits terrain, Nautilus instead pulls himself to the anchor and the cooldown of Dredge Line is reduced by half.

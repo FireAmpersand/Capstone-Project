@@ -1,0 +1,1 @@
+<mainText>Yorick can raise Mist Walkers with his abilities. Enemies that die near Yorick will sometimes leave a grave.</mainText>

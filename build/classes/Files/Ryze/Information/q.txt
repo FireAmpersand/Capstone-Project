@@ -1,0 +1,1 @@
+Passively, Ryze's other damaging spells reset Overload and begin to charge a Rune that can be used to empower Overload. On cast, Ryze throws a charge of pure energy in a line, dealing damage to the first enemy struck. If a Rune is fully charged, Ryze also gains a shield and Movement Speed.

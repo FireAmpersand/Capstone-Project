@@ -1,0 +1,1 @@
+Zed leaves a shadow behind and dashes to target Champion, marking them for death. After 3 seconds, the mark will trigger, dealing a percentage of the damage Zed has dealt while the mark was active. If the Champion dies under Death Mark, Zed can gain a portion of their attack damage.

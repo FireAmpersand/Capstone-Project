@@ -1,0 +1,1 @@
+Aurelion Sol creates an expanding disk, which explodes to stun and damage enemies when it moves too far away from him.

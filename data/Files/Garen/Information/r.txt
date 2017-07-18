@@ -1,0 +1,1 @@
+The enemy champion with the most recent kills is the Villain. Garen's attacks deal additional true damage to that champion. Garen can call upon the might of Demacia to deal a finishing blow to an enemy champion that deals damage based upon how much health his target has missing. This damage is true damage against the Villain.

@@ -1,0 +1,1 @@
+While toggled on Aatrox deals bonus damage and fills a portion of his Blood Well every third subsequent attack. While toggled off Aatrox restores Health every third subsequent attack.

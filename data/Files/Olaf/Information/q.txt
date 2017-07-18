@@ -1,0 +1,1 @@
+Olaf throws an axe into the ground at a target location, dealing damage to enemies it passes through and slowing their Movement Speed. If Olaf picks up the axe, the ability's cooldown is reduced by 4.5 seconds.

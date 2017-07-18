@@ -1,0 +1,1 @@
+A skillshot basic attack. After two successful Steel Tempests, the next fires a tornado that knocks enemies Airborne.

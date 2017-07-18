@@ -1,0 +1,1 @@
+Viktor conjures a heavy gravitational field that slows enemies in its radius. Enemies who stay within the device for too long are stunned. Augment: Enemies stunned by Gravity Field are dragged to the center.

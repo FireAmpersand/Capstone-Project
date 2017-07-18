@@ -1,0 +1,1 @@
+Olaf's Attack Speed is increased by 1% for each 1% of his Health he is missing.

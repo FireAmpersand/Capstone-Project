@@ -1,0 +1,1 @@
+Volibear heals rapidly for a few seconds when his Health drops to a critical level.

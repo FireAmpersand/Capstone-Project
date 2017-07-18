@@ -1,0 +1,1 @@
+Zed's basic attacks against targets below 50% Health deal 6-10% of the target's maximum Health as bonus Magic Damage. This effect can only occur once every 10 seconds on the same target.

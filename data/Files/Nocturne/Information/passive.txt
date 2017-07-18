@@ -1,0 +1,1 @@
+Every 10 seconds, Nocturne's next attack strikes surrounding enemies for 120% physical damage and heals himself. <br><br>Nocturne's basic attacks reduce this cooldown by 1 second.

@@ -1,0 +1,1 @@
+Xin Zhao charges an enemy, dealing damage and slowing all enemies in the area.

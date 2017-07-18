@@ -1,0 +1,1 @@
+Seeds spawn around Zyra periodically, becoming faster with level and lasting 45 seconds. If an enemy Champion steps on a seed, it dies. <br><br>Zyra can cast spells near seeds to grow plants. Extra plants striking the same target deal reduced damage.

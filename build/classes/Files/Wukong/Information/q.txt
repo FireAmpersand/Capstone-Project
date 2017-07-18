@@ -1,0 +1,1 @@
+Wukong's next attack deals additional physical damage, gains range, and reduces the enemy's Armor for a short duration.

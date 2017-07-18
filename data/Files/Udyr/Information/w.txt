@@ -1,0 +1,1 @@
+Turtle Stance: Activation - Udyr gains a temporary shield that absorbs damage. Persistent Effect - Udyr's first attack and every third attack after heals him for 2.5% of his maximum health.

@@ -1,0 +1,1 @@
+If Garen has not recently been struck by damage or enemy abilities, he regenerates a percentage of his maximum health each second. Minion damage does not stop Perseverance.

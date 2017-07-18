@@ -1,0 +1,1 @@
+LeBlanc projects an orb towards her target, dealing magic damage. When Shatter Orb is empowered by Sigil of Malice, the spell bounces to the nearest ready Sigil of Malice (bounces deal reduced damage to minions).

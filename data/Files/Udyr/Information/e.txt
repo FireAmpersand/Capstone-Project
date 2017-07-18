@@ -1,0 +1,1 @@
+Bear Stance: Activation - Udyr increases Movement Speed for a short duration. Persistent Effect - Udyr's basic attacks stun his target for 1 second. This effect cannot occur on the same target for several seconds.

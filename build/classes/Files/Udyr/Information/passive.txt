@@ -1,0 +1,1 @@
+Entering a stance grants Udyr bonus Attack Speed and Movement Speed for a short duration. This effect can stack multiple times.

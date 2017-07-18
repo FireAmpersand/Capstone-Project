@@ -1,0 +1,1 @@
+Vel'Koz's abilities apply <font color='#FFFFFF'>Organic Deconstruction</font> to enemies on hit. If 3 stacks are accumulated, the enemy will take a burst of true damage.

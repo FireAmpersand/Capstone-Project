@@ -1,0 +1,1 @@
+Graves's shotgun holds two shells. After firing them he must reload. Each attack fires several bullets in a cone. Hitting an enemy with multiple bullets does bonus damage. These bullets cannot pass through units.

@@ -1,0 +1,1 @@
+Increases Wukong's Armor and Magic Resist for each nearby enemy champion.

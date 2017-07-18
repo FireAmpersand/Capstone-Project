@@ -1,0 +1,1 @@
+Morgana releases a sphere of dark magic. Upon contact with an enemy unit, the sphere will deal magic damage and force the unit to the ground for a period of time.

@@ -1,0 +1,1 @@
+Each time a spell is cast near Maokai he draws energy from it, gaining a charge of Magical Sap. When Maokai has 5 charges his next basic attack heals him for a percentage of his max Health.

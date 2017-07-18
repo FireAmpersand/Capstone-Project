@@ -1,0 +1,1 @@
+A percent of the damage dealt from abilities is converted into a temporary shield, absorbing incoming damage.

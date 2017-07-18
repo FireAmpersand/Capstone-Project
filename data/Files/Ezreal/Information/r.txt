@@ -1,0 +1,1 @@
+Ezreal winds up for 1 second to fire a powerful barrage of energy missiles which do massive damage to each unit they pass through (deals 10% less damage to each unit it passes through).

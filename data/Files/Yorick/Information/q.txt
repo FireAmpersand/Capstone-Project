@@ -1,0 +1,1 @@
+Yorick deals bonus damage on his next attack and heals himself. If the target dies a grave will be dug.

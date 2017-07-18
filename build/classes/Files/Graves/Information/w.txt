@@ -1,0 +1,1 @@
+Graves fires a smoke canister at the target area creating a cloud of smoke. Enemies inside the smoke cloud have reduced sight range and Movement Speed.

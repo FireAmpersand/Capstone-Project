@@ -1,0 +1,1 @@
+A wisp of wind strikes an enemy unit and then bounces to nearby enemy units, dealing damage and silencing the victims.

@@ -1,0 +1,1 @@
+Volibear's repeated attacks grant him additional Attack Speed. Once Volibear has repeatedly attacked three times, he can perform a vicious bite on his target which deals increased damage based on the target's missing Health.

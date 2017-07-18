@@ -1,0 +1,1 @@
+Deals physical damage to the target. Damage increased on Isolated targets. If he chooses to Evolve Reaper Claws, this refunds a percent of it's cooldown against Isolated targets. Kha'Zix also gains increased range on his basic attacks and Taste Their Fear.

@@ -1,0 +1,1 @@
+Skarner suppresses an enemy champion and deals damage to it. During this time, Skarner can move freely and will drag his helpless victim around with him. When the effect ends, the target will be dealt additional damage.

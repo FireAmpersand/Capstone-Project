@@ -1,0 +1,1 @@
+After being killed, Sion will reanimate with rapidly decaying Health. His attacks become very rapid, gain 100% Lifesteal and deal bonus damage equal to 10% of his target's maximum Health (max 75 to monsters).<br><br>All his abilities are replaced with Death Surge, which grants a burst of Movement Speed.

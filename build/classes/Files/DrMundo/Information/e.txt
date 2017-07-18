@@ -1,0 +1,1 @@
+Masochism deals bonus damage on Dr. Mundo's next basic attack and increases Attack Damage by a flat amount for 5 seconds. In addition, Dr. Mundo also gains an additional amount of Attack Damage for each percentage of Health he is missing.

@@ -1,0 +1,1 @@
+Shaco's basic attack critically strikes for extra damage when striking a unit from behind. Units can't be Backstabbed more than once every few seconds, modified by Shaco's cooldown reduction.

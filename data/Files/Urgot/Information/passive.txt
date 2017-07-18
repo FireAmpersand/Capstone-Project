@@ -1,0 +1,1 @@
+Urgot's basic attacks and Acid Hunters reduce his targets' damage by 15% for 2.5 seconds.

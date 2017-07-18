@@ -1,0 +1,1 @@
+Amumu's basic attacks <font color='#9b0f5f'>Curse</font> enemies for 3 seconds, causing them to take 10% bonus true damage from any magic damage dealt to them.<rules>

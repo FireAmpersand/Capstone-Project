@@ -1,0 +1,1 @@
+When Kayle attacks a champion, the target loses 3% Armor and Magic Resist for 5 seconds. This effect stacks up to 5 times.

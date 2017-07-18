@@ -1,0 +1,1 @@
+Nautilus' basic attacks deal bonus physical damage and immobilize his targets. This effect cannot happen more than once every few seconds on the same target.

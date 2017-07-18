@@ -1,0 +1,1 @@
+Upon dying, Kog'Maw starts a chain reaction in his body which causes him to move faster and detonate after 4 seconds; dealing 100 + (25 x lvl) true damage to surrounding enemies.

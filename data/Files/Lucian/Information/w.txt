@@ -1,0 +1,1 @@
+Lucian shoots a missile that explodes in a star shape, marking enemies. Lucian gains Movement Speed for attacking marked enemies.

@@ -1,0 +1,1 @@
+<mainText>Every few seconds, Galio's next basic attack deals bonus magic damage in an area. Colossal Smash's cooldown is reduced when Galio hits champions with his spells.</mainText>

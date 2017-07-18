@@ -1,0 +1,1 @@
+Places a protective barrier around an allied champion, absorbing magical damage and disables until penetrated or the shield dissipates.

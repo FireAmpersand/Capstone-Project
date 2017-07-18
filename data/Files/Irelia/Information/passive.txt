@@ -1,0 +1,1 @@
+Irelia reduces the duration of disables on herself based on whether she is Outnumbered by nearby champions. If she's in an even fight, she'll reduce disables by a small amount, if she's outnumbered, she'll reduce disables by a larger amount.

@@ -1,0 +1,1 @@
+Coats an ally in magnetic metal, increasing each unit's movement speed toward one another. While near one another, the metal swirls violently dealing damage per second to enemies.

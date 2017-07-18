@@ -1,0 +1,1 @@
+Wukong becomes Invisible for a short duration, leaving behind a decoy that will deal Magic Damage to enemies near it when Wukong's stealth expires.

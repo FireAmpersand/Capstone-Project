@@ -1,0 +1,1 @@
+Nautilus surrounds himself with dark energies, gaining a shield that blocks incoming damage. While the shield persists, his attacks apply a damage over time effect to enemies around his target.

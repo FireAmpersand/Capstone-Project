@@ -1,0 +1,1 @@
+Infects an area with desecrated soil, causing enemy units who stand on the location to take continual damage.

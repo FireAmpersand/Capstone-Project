@@ -1,0 +1,1 @@
+Spells gain extra effects at max rank.<br><br><font color='#FF9900'>Dark Sphere</font>: Sphere's lifetime is increased to 8 seconds.<br><font color='#FF9900'>Force of Will</font>: Deals 20% bonus true damage.<br><font color='#FF9900'>Scatter the Weak</font>: Spell width increased by 50%.<br><font color='#FF9900'>Unleashed Power</font>: Range increased by 75.

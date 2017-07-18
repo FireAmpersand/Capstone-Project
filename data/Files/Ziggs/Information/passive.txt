@@ -1,0 +1,1 @@
+Every 12 seconds, Ziggs' next basic attack deals bonus magic damage. This cooldown is reduced whenever Ziggs uses an ability.

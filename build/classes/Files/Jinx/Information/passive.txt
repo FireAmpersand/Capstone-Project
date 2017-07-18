@@ -1,0 +1,1 @@
+Jinx receives massively increased Movement Speed and stacking Attack Speed whenever she damages an enemy champion, tower, or inhibitor that is then killed or destroyed within 3 seconds.

@@ -1,0 +1,1 @@
+After casting Transform Jayce gains 40 Movement Speed and can move through units for the next 1.25 seconds.

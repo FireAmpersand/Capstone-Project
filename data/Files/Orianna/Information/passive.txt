@@ -1,0 +1,1 @@
+Orianna's autoattack deals additional magic damage. This damage increases the more Orianna attacks the same target.

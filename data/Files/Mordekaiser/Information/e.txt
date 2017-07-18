@@ -1,0 +1,1 @@
+Mordekaiser deals damage to enemies in a cone in front of him. For each unit hit, Mordekaiser's shield absorbs energy.

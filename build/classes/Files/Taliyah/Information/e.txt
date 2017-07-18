@@ -1,0 +1,1 @@
+Taliyah creates a slowing minefield that explodes if enemies dash through it or are pushed/pulled through it.

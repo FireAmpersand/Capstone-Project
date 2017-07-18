@@ -1,0 +1,1 @@
+Graves fires an explosive shell that detonates after 2 seconds, or 0.2 seconds if it strikes terrain.
